@@ -10,7 +10,7 @@ export function Footer() {
             <div className="flex items-center gap-3">
               <Image
                 src={logo}
-                alt="Warp DAO"
+                alt="WarpDAO"
                 layout="responsive"
                 className="w-8 h-8 rounded-lg ring-1 ring-white/10"
               />
@@ -108,7 +108,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-16 pt-6 border-t border-white/10 text-[11px] flex flex-col md:flex-row gap-4 md:items-center md:justify-between text-slate-500 tracking-wide">
-          <div>© {new Date().getFullYear()} Warp DAO. All rights reserved.</div>
+          <div>© {new Date().getFullYear()} WarpDAO. All rights reserved.</div>
           <div className="flex flex-wrap gap-5">
             {["Terms", "Privacy", "Brand", "Security"].map((i) => (
               <a

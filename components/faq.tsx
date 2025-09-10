@@ -8,12 +8,12 @@ interface FAQItem {
 
 const faqs: FAQItem[] = [
   {
-    q: "What is Warp DAO?",
-    a: "Warp DAO is a community-governed execution and liquidity layer coordinating multichain trading, liquidity incentives and protocol evolution across supported networks.",
+    q: "What is WarpDAO?",
+    a: "WarpDAO is a community-governed execution and liquidity layer coordinating multichain trading, liquidity incentives and protocol evolution across supported networks.",
   },
   {
-    q: "How is Warp DAO different from a typical DeFi platform?",
-    a: "Rather than a single-purpose DEX, Warp DAO fuses cross‑chain liquidity, on‑chain governance and treasury strategy so stakeholders shape emissions, listings and product direction collaboratively.",
+    q: "How is WarpDAO different from a typical DeFi platform?",
+    a: "Rather than a single-purpose DEX, WarpDAO fuses cross‑chain liquidity, on‑chain governance and treasury strategy so stakeholders shape emissions, listings and product direction collaboratively.",
   },
   {
     q: "What role does the token play?",
@@ -48,7 +48,7 @@ export function FAQ() {
           </h2>
           <p className="text-slate-300/85 max-w-2xl mx-auto text-lg leading-relaxed">
             Key answers about the mission, governance mechanics and how to
-            participate in Warp DAO.
+            participate in WarpDAO.
           </p>
           <div className="mt-6 h-px w-32 mx-auto bg-gradient-to-r from-transparent via-cyan-400/60 to-transparent" />
         </div>

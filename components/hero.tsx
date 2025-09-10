@@ -78,9 +78,9 @@ export function Hero() {
           <h1
             className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-5 relative heading-split"
             data-delay="100"
-            aria-label="Warp DAO"
+            aria-label="WarpDAO"
           >
-            Warp DAO
+            WarpDAO
           </h1>
 
           <p
@@ -115,7 +115,7 @@ export function Hero() {
                 className="rounded-full px-10 h-12 border-[#0554F2]/40 bg-white/5 hover:bg-[#0554F2]/10 transition-all duration-500 backdrop-blur-sm brand-blue-text hover:brightness-110 text-sm md:text-base"
               >
                 <Sparkles className="mr-2 w-4 h-4" />
-                Why Warp DAO
+                Why WarpDAO
               </Button>
             </Link>
           </div>

@@ -121,7 +121,7 @@ export function Navigation() {
           >
             <Image
               src={headerImg}
-              alt="Warp DAO logo"
+              alt="WarpDAO logo"
               priority
               width={32}
               height={32}

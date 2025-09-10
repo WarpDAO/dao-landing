@@ -15,10 +15,10 @@ export function About() {
       <div className="container mx-auto max-w-6xl relative">
         <div className="text-center mb-20">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 tracking-tight heading-split">
-            Why Warp DAO
+            Why WarpDAO
           </h2>
           <p className="text-lg md:text-xl text-slate-300/90 max-w-3xl mx-auto mb-10 leading-relaxed">
-            Warp DAO coordinates multichain liquidity, execution primitives &
+            WarpDAO coordinates multichain liquidity, execution primitives &
             on‑chain governance so traders, LPs & builders shape protocol
             outcomes transparently— not just interact with them.
           </p>

@@ -15,7 +15,7 @@ export function Architecture() {
               Modular Architecture
             </h2>
             <p className="text-slate-300/85 leading-relaxed text-base md:text-lg">
-              Warp DAO segments core execution, liquidity orchestration and
+              WarpDAO segments core execution, liquidity orchestration and
               governance into upgradable modules. This creates a minimal base
               while enabling community‑approved expansion of treasury tooling,
               incentive engines and analytics surfaces.

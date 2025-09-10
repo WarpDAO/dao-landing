@@ -77,7 +77,7 @@ export function JoinCommunity() {
         <div className="grid lg:grid-cols-3 gap-14 items-start">
           <div className="lg:col-span-2 space-y-7">
             <h2 className="text-3xl md:text-4xl font-bold tracking-tight leading-tight">
-              Join The Warp DAO
+              Join The WarpDAO
             </h2>
             <p className="text-slate-300/85 text-base md:text-lg leading-relaxed max-w-xl">
               Contribute signal, delegate voting power, propose treasury

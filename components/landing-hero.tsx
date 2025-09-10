@@ -16,7 +16,7 @@ export function LandingHero() {
             Multichain Liquidity &<br /> Governance Layer
           </h1>
           <p className="mt-6 text-lg md:text-xl text-slate-300/85 leading-relaxed max-w-xl">
-            Warp DAO coordinates cross‑chain routing, pooled incentives &
+            WarpDAO coordinates cross‑chain routing, pooled incentives &
             modular protocol extensions— enabling the community to evolve
             execution surfaces without fragmenting liquidity.
           </p>

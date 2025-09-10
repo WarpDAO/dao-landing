@@ -10,9 +10,9 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Warp DAO – Multichain Liquidity & Governance Layer",
+  title: "WarpDAO – Multichain Liquidity & Governance Layer",
   description:
-    "Warp DAO: Coordinate liquidity, emissions & execution across AVAX, Hedera, Flare & SGB. A unified multichain governance-directed protocol layer.",
+    "WarpDAO: Coordinate liquidity, emissions & execution across AVAX, Hedera, Flare & SGB. A unified multichain governance-directed protocol layer.",
 };
 
 export default function RootLayout({
@@ -29,7 +29,7 @@ export default function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="description"
-          content="Warp DAO: Coordinate liquidity, emissions & execution across AVAX, Hedera, Flare & SGB. A unified multichain governance-directed protocol layer."
+          content="WarpDAO: Coordinate liquidity, emissions & execution across AVAX, Hedera, Flare & SGB. A unified multichain governance-directed protocol layer."
         />
       </head>
       <body className={`${spaceGrotesk.variable} font-sans`}>
