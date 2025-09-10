@@ -173,7 +173,7 @@ export function Navigation() {
               <FaXTwitter className="w-4 h-4" />
             </a>
             <a
-              href="https://t.me"
+              href="https://t.me/WarpDAO"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Telegram"
@@ -256,7 +256,7 @@ export function Navigation() {
                     <FaXTwitter className="w-5 h-5" />
                   </a>
                   <a
-                    href="https://t.me"
+                    href="https://t.me/WarpDAO"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-slate-400 hover:text-cyan-300 transition-colors"

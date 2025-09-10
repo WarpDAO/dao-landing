@@ -29,7 +29,7 @@ export function Footer() {
                 <FaXTwitter className="w-4 h-4" />
               </a>
               <a
-                href="https://t.me"
+                href="https://t.me/WarpDAO"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="h-9 w-9 inline-flex items-center justify-center rounded-full bg-white/5 border border-white/10 text-slate-400 hover:text-white hover:border-cyan-400/40 transition-colors"

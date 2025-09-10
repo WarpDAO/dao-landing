@@ -19,7 +19,7 @@ const socials: {
 }[] = [
   {
     name: "Telegram",
-    href: "https://t.me",
+    href: "https://t.me/WarpDAO",
     icon: <FaTelegram className="w-6 h-6" />,
     gradient: "from-cyan-500/25 via-cyan-400/10 to-transparent",
     ring: "ring-cyan-400/30",
@@ -35,7 +35,7 @@ const socials: {
   },
   {
     name: "Discord",
-    href: "https://discord.gg",
+    href: "https://discord.gg/p7gYu8kktE",
     icon: <FaDiscord className="w-6 h-6" />,
     gradient: "from-indigo-500/25 via-indigo-400/10 to-transparent",
     ring: "ring-indigo-400/30",
@@ -43,7 +43,7 @@ const socials: {
   },
   {
     name: "Medium",
-    href: "https://medium.com/@warpdao",
+    href: "https://warpdao.medium.com/",
     icon: <FaMedium className="w-6 h-6" />,
     gradient: "from-emerald-500/25 via-emerald-400/10 to-transparent",
     ring: "ring-emerald-400/30",
@@ -58,8 +58,8 @@ const socials: {
     delay: 400,
   },
   {
-    name: "Reddit",
-    href: "https://reddit.com/r",
+    name: "Paragraph",
+    href: "https://paragraph.com/@warpdao",
     icon: <FaRedditAlien className="w-6 h-6" />,
     gradient: "from-orange-500/25 via-amber-400/10 to-transparent",
     ring: "ring-orange-400/30",
