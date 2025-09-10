@@ -68,7 +68,7 @@ export function Footer() {
                 Resources
               </h3>
               <ul className="space-y-2">
-                {["Docs", "Whitepaper", "Brand", "Security"].map((l) => (
+                {["Docs", "Whitepaper", "Brand", "Status"].map((l) => (
                   <li key={l}>
                     <a
                       href="#"
@@ -110,7 +110,7 @@ export function Footer() {
         <div className="mt-16 pt-6 border-t border-white/10 text-[11px] flex flex-col md:flex-row gap-4 md:items-center md:justify-between text-slate-500 tracking-wide">
           <div>© {new Date().getFullYear()} WarpDAO. All rights reserved.</div>
           <div className="flex flex-wrap gap-5">
-            {["Terms", "Privacy", "Brand", "Security"].map((i) => (
+            {["Terms", "Privacy", "Brand", "Status"].map((i) => (
               <a
                 key={i}
                 href="#"
