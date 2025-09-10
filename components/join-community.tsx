@@ -51,7 +51,7 @@ const socials: {
   },
   {
     name: "GitHub",
-    href: "https://github.com",
+    href: "https://github.com/WarpDAO",
     icon: <FaGithub className="w-6 h-6" />,
     gradient: "from-slate-500/25 via-slate-400/10 to-transparent",
     ring: "ring-slate-400/30",
