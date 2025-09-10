@@ -5,7 +5,8 @@ import {
   FaDiscord,
   FaMedium,
   FaGithub,
-  FaRedditAlien,
+
+  FaParagraph
 } from "react-icons/fa6";
 
 // Central definition so it's easy to update real links later
@@ -60,7 +61,7 @@ const socials: {
   {
     name: "Paragraph",
     href: "https://paragraph.com/@warpdao",
-    icon: <FaRedditAlien className="w-6 h-6" />,
+    icon: <FaParagraph className="w-6 h-6" />,
     gradient: "from-orange-500/25 via-amber-400/10 to-transparent",
     ring: "ring-orange-400/30",
     delay: 500,

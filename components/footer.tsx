@@ -68,13 +68,32 @@ export function Footer() {
                 Resources
               </h3>
               <ul className="space-y-2">
-                {["Docs", "Whitepaper", "Brand", "Status"].map((l) => (
-                  <li key={l}>
+                {[
+                  {
+                    label: "Docs",
+                    href: "https://warpd/docs",
+                  },
+                  {
+                    label: "Whitepaper",
+                    href: "https://warpd/whitepaper",
+                  },
+                  {
+                    label: "Brand",
+                    href: "https://warpd/brand",
+                  },
+                  {
+                    label: "Status",
+                    href: "https://status.warpd",
+                  },
+                ].map(({ label, href }) => (
+                  <li key={label}>
                     <a
-                      href="#"
+                      href={href}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="text-slate-500 hover:text-cyan-300 transition-colors"
                     >
-                      {l}
+                      {label}
                     </a>
                   </li>
                 ))}
