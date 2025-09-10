@@ -71,19 +71,19 @@ export function Footer() {
                 {[
                   {
                     label: "Docs",
-                    href: "https://warpd/docs",
+                    href: "https://docs.warpdao.org/",
                   },
                   {
                     label: "Whitepaper",
                     href: "https://warpd/whitepaper",
                   },
                   {
-                    label: "Brand",
-                    href: "https://warpd/brand",
+                    label: "Blog",
+                    href: "https://blog.warpdao.org/",
                   },
                   {
                     label: "Status",
-                    href: "https://status.warpd",
+                    href: "https://status.warpdao.org/",
                   },
                 ].map(({ label, href }) => (
                   <li key={label}>

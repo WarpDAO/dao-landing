@@ -1,4 +1,4 @@
-// File: /workspaces/dao-landing/app/layout.tsx
+// File: /Users/imac/Desktop/Github/dao-landing/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
