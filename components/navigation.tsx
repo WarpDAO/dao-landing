@@ -22,7 +22,7 @@ export function Navigation() {
     { name: "Governance", href: "#governance" },
     { name: "Features", href: "#features" },
     { name: "Architecture", href: "#architecture" },
-    { name: "Networks", href: "#networks" },
+    { name: "Networks", href: "#Networks" },
     { name: "FAQ", href: "#faq" },
     { name: "Community", href: "#community" },
   ];
