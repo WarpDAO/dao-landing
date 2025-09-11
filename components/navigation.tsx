@@ -183,11 +183,11 @@ export function Navigation() {
             </a>
           </div>
           <Link
-            href="/"
+            href="https://app.aragon.org/dao/ethereum-mainnet/warp.dao.eth"
             className="hidden sm:inline-flex group relative items-center gap-1.5 rounded-full border border-cyan-400/40 bg-gradient-to-r from-cyan-600/30 to-blue-700/30 px-5 py-2 text-[11px] font-medium tracking-[0.15em] text-cyan-300 hover:text-white hover:border-cyan-400 transition-all overflow-hidden focus:outline-none focus-visible:ring-2 focus-visible:ring-cyan-400/60"
           >
             <span className="absolute inset-0 opacity-0 group-hover:opacity-100 bg-gradient-to-r from-transparent via-white/15 to-transparent" />
-            Launch
+            LAUNCH APP
             <ArrowUpRight className="w-3.5 h-3.5" />
           </Link>
 

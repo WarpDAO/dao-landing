@@ -74,8 +74,8 @@ export function Footer() {
                     href: "https://docs.warpdao.org/",
                   },
                   {
-                    label: "Whitepaper",
-                    href: "https://warpd/whitepaper",
+                    label: "Launch App",
+                    href: "https://app.aragon.org/dao/ethereum-mainnet/warp.dao.eth",
                   },
                   {
                     label: "Blog",
